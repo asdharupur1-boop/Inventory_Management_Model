@@ -37,7 +37,7 @@ Make sure you have Python 3.x installed on your system.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/](https://github.com/asdharupur1-boop/Inventory_Management_Model/edit/main/README.md
+    git clone [https://github.com/](https://github.com/asdharupur1-boop/Inventory_Management_Model.md
     ```
 2.  **Navigate to the project directory:**
     ```sh
